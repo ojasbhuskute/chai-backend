@@ -1,0 +1,3 @@
+# chai aur backend sereies
+this is a video series on backend with backend
+- [Model Link](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2ljRmp4ek54dDd1ME10dDZSbGltaXZILTktUXxBQ3Jtc0tucjNONlA3Uko2WFVSWGpobzYxdFY4UkR1aTRSYktHWS1hV1FNS0ZlVTZQbUFJMFhXWm51NVlVR1VtSmlzR2luVTJCSlNlcGNBZ2lVdlp6THNRRUc4MTdjUmdsQy0tT3JNYU45eVdfQzJiTnVFUFRzdw&q=https%3A%2F%2Fapp.eraser.io%2Fworkspace%2FYtPqZ1VogxGy1jzIDkzj%3Forigin%3Dshare&v=9B4CvtzXRpc)
